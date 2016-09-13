@@ -23,8 +23,10 @@ My Processing sketches for the online course „Creative Coding“
 
 <h4> Credits </h4>
 
-https://www.futurelearn.com/partners/monash-university
-https://www.futurelearn.com/courses/creative-coding
+
+<a href="https://www.futurelearn.com/partners/monash-university">https://https://www.futurelearn.com/partners/monash-university</a>
+<a href="https://www.futurelearn.com/courses/creative-coding">https://www.futurelearn.com/courses/creative-coding</a>
+
 
 <h5> License </h5>
 
