@@ -1,23 +1,28 @@
-<h1>Creative-Coding Creative Coding </h1>
+<h1>Creative Coding</h1>
 
- My Processing sketches for the online course „Creative Coding“ 
+My Processing sketches for the online course „Creative Coding“
 
-Installation and Usage
+<h2>Installation and Usage</h1>
 
-* Install Processing on your computer
-* Clone or download the repository
-* Open the sketches and enjoy digital art
-* Contributing
+
+<ol> == $0
+<li> Install Processing on your computer </li>
+<li>  Clone or download the repository </li>
+<li>  Open the sketches and enjoy digital art </li>
+</ol>
+
+<h3>Contributing </h3>
 
 Enjoy it
- - Create your feature branch: git checkout -b my-new-feature
- - Commit your changes: git commit -am 'Add some feature'
- - Push to the branch: git push origin my-new-feature
- - Submit a pull request 
- - Credits
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request 
+
+<h4> Credits </h4>
 
 Thx https://www.futurelearn.com/courses/creative-coding
 
-License
+<h5> License </h5>
 
 https://www.gnu.org/licenses/gpl-3.0.html
