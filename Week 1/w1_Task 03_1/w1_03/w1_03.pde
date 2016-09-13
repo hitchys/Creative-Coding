@@ -1,14 +1,11 @@
-/*
+/* 
  * Creative Coding
- * Week 1, 03 - Draw your name! (part 3)
- * by Indae Hwang and Jon McCormack
- * Updated 2016
- * Copyright (c) 2014-2016 Monash University
- 
- * This program allows you to draw using the mouse.
- * Press 's' to save your drawing as an image.
- * Press 'r' to erase all your drawing and start with a blank screen
- * 
+ * * 
+ * Week 1, 03 - Draw your name - Part 3
+ * * * 
+ * Interpretation by Alfredo Delfino
+ * * * * 
+ * Based on code by Indae Hwang and Jon McCormack
  */
 
 // variables to store the delay and target counts
