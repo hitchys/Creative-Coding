@@ -5,19 +5,21 @@ My Processing sketches for the online course „Creative Coding“
 <h2>Installation and Usage</h1>
 
 
-<ol> == $0
-<li> Install Processing on your computer </li>
+<ol> 
+<li>  Install Processing on your computer </li>
 <li>  Clone or download the repository </li>
 <li>  Open the sketches and enjoy digital art </li>
 </ol>
 
 <h3>Contributing </h3>
 
-Enjoy it
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request 
+<ol> 
+<li>Enjoy it</li>
+<li>Create your feature branch: git checkout -b my-new-feature</li>
+<li>Commit your changes: git commit -am 'Add some feature'</li>
+<li>Push to the branch: git push origin my-new-feature</li>
+<li>Submit a pull request </li>
+</ol>
 
 <h4> Credits </h4>
 
