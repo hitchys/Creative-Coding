@@ -1,13 +1,11 @@
-/*
- * 
- * by Alfredo Delfino
- * Updated 2016
- * Copyright (c)
- 
- * This program allows you to draw using the mouse.
- * Press 's' to save your drawing as an image.
- * Press 'r' to erase your drawing and start with a blank screen
- * 
+/* 
+ * Creative Coding
+ * * 
+ * Week 1, 02 - Draw your name _ Part 2
+ * * * 
+ * Interpretation by Alfredo Delfino
+ * * * * 
+ * Based on code by Indae Hwang and Jon McCormack
  */
 
 float x = width/2;
